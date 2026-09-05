@@ -49,3 +49,4 @@ venv.bak/
 .idea/
 *.swp
 *.swo
+.vs
